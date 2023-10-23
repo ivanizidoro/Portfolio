@@ -33,6 +33,10 @@ body{
     transition: .2s;
 }
 
+.i-contato{
+    color: #000;
+}
+
 h2.titulo{
     color: #fff;
     font-size: 38px;
@@ -101,7 +105,7 @@ header nav.menu-desktop ul li{
 }
 
 .menu-mobile{
-    background: #000;
+    background: #00000079;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -113,11 +117,11 @@ header nav.menu-desktop ul li{
 }
 
 .menu-mobile.abrir-menu{
-    width: 70%;
+    width: 41%;
 }
 
 .menu-mobile.abrir-menu ~ .overlay-menu{
-    
+    display: block;
 }
 
 .menu-mobile .btn-fechar{
