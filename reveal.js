@@ -27,31 +27,36 @@ revelar.reveal('.titulo', {
 revelar.reveal('.efeito-especialidades1', {
     duration: 2000,
     distance: '90px',
-    delay: 500
+    delay: 500,
+    origin: 'left'
 })
 
 revelar.reveal('.efeito-especialidades2', {
     duration: 2000,
     distance: '90px',
-    delay: 1000
+    delay: 1000,
+    origin: 'left'
 })
 
 revelar.reveal('.efeito-especialidades3', {
     duration: 2000,
     distance: '90px',
-    delay: 1500
+    delay: 1500,
+    origin: 'left'
 })
 
 revelar.reveal('.efeito-especialidades4', {
     duration: 2000,
     distance: '90px',
-    delay: 2000
+    delay: 2000,
+    origin: 'left'
 })
 
 revelar.reveal('.efeito-especialidades5', {
     duration: 2000,
     distance: '90px',
-    delay: 2500
+    delay: 2500,
+    origin: 'left'
 })
 
 // SESSÃO SOBRE
